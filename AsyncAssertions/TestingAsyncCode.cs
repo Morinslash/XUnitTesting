@@ -1,5 +1,3 @@
-using Xunit.Sdk;
-
 namespace AsyncAssertions;
 
 public class TestingAsyncCode
