@@ -7,7 +7,7 @@ public class TestingAsyncCode
     private Func<int, int, Task<int>> _asyncSum = async (a, b) =>
     {
         var sum = a + b;
-        await Task.Delay(5000);
+        await Task.Delay(500);
         return sum;
     };
     

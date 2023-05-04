@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsAssertions", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAssertions", "AsyncAssertions\AsyncAssertions.csproj", "{7A6EC7C2-23F3-423C-ABC8-418EAE48A469}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionsAssertions", "ExceptionsAssertions\ExceptionsAssertions.csproj", "{204B051B-8906-45CA-9FE6-4FCD4D36D9FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{7A6EC7C2-23F3-423C-ABC8-418EAE48A469}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A6EC7C2-23F3-423C-ABC8-418EAE48A469}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A6EC7C2-23F3-423C-ABC8-418EAE48A469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204B051B-8906-45CA-9FE6-4FCD4D36D9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204B051B-8906-45CA-9FE6-4FCD4D36D9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204B051B-8906-45CA-9FE6-4FCD4D36D9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204B051B-8906-45CA-9FE6-4FCD4D36D9FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
