@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAssertions", "BasicAss
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsAssertions", "CollectionsAssertions\CollectionsAssertions.csproj", "{D941B475-60D3-41DD-BE87-18A9087F895D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAssertions", "AsyncAssertions\AsyncAssertions.csproj", "{7A6EC7C2-23F3-423C-ABC8-418EAE48A469}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{D941B475-60D3-41DD-BE87-18A9087F895D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D941B475-60D3-41DD-BE87-18A9087F895D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D941B475-60D3-41DD-BE87-18A9087F895D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A6EC7C2-23F3-423C-ABC8-418EAE48A469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6EC7C2-23F3-423C-ABC8-418EAE48A469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6EC7C2-23F3-423C-ABC8-418EAE48A469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6EC7C2-23F3-423C-ABC8-418EAE48A469}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
