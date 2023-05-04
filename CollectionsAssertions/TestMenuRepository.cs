@@ -16,11 +16,6 @@ public class TestMenuRepository : IMenuRepository
         };
     }
 
-    public void AddMenu(Menu menu)
-    {
-        _menus.Add(menu);
-    }
-
     public Menu GetMenuByDay(string day)
     {
         return _menus.FirstOrDefault(menu => menu.Day == day);

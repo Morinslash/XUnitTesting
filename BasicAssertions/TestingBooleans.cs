@@ -6,7 +6,7 @@ public class TestingBooleans
     [Fact]
     public void Assert_Is_True()
     {
-        Assert.True(_areNumbersEqual(2,2));
+        Assert.True(_areNumbersEqual(2,2), "The numbers are not equal!");
     }
 
     [Fact]
